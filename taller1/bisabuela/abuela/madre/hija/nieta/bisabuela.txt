@@ -1,0 +1,5 @@
+Nombre: Tertulia
+Apellido: Vasquez
+RH: o+
+Altura: 1.90
+Nacimiento: 02/06/1926

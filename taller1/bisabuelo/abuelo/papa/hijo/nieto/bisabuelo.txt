@@ -1,0 +1,5 @@
+Nombre: Rogelio
+Apellido: Bernal
+RH: A-
+Altura: 1.92
+Nacimiento: 09/04/1916
